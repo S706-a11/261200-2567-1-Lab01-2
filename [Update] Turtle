@@ -373,11 +373,6 @@ public class Turtle implements Runnable, ActionListener, MouseListener, MouseMot
             bob1.right(1.3);
         }
                   
-         Turtle bob2 = new Turtle();
-         bob2.forward(50);
-
-
-
 
 
     }
